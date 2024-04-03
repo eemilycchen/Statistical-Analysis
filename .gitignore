@@ -1,0 +1,22 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Jupyter Notebook temporary files
+*.ipynb_tmp
+
+# Jupyter Notebook autosave files
+*.ipynb_autosave/
+
+# Jupyter Notebook HTML export
+*.html
+
+# Python virtual environment
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+
+# Other Jupyter Notebook generated files
+.nbgrader.lock
+nbconvert/
